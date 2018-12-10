@@ -26,7 +26,7 @@ export default {
 
     },
     components: {
-        slotComponent
+        
     }
 }
 </script>
