@@ -13,6 +13,8 @@
 </template>
 
 <script>
+import A from '@/components/a.vue'
+console.log(A)
 export default {
     name: 'Test',
     data() {
@@ -24,7 +26,7 @@ export default {
 
     },
     components: {
-
+        slotComponent
     }
 }
 </script>
